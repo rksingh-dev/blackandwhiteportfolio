@@ -6,7 +6,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Developer Portfolio | Full Stack Web Developer',
+   title: 'Portfolio | Rahul Kumar Singh',
   description: 'Passionate full-stack developer showcasing modern web applications and technical expertise.',
   openGraph: {
     title: 'Developer Portfolio | Full Stack Web Developer',
