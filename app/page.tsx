@@ -80,7 +80,7 @@ const allExperience = [
       title: 'Open Source Contributor',
       company: 'GirlScript Summer of Code',
       period: 'May\'24 - Nov\'24',
-      description: 'Engineered responsive navigation components for a Movie Recommender platform, improving mobile user experience by 40% using React.js. Collaborated with 10+ developers using Git workflow, maintaining 100% code quality standards through code reviews. Developed a machine learning model for movie recommendations with Python, increasing accuracy by 15%.',
+      description: 'Engineered responsive navigation components for a Movie Recommender platform, improving mobile user experience by 40% using React.js. Collaborated with 10+ developers using Git workflow, maintaining 100% code quality standards through code reviews.',
       technologies: ['React.js', 'Git', 'Python', 'Machine Learning']
     },
     {
