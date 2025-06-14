@@ -93,6 +93,9 @@
     --input: 240 5% 80%;
     --ring: 240 5% 30%;
   }
+  html {
+    font-size: 1.0625rem; 
+  }
 }
 
 @layer base {
