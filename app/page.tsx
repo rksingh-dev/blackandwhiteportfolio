@@ -71,7 +71,7 @@ const projects = [
 const allExperience = [
   {
     title: 'Summer Internship at Asia\'s Second Largest Mines',
-    company: 'South Eastern CoalField Limited (EE&T Department), Bilaspur',
+    company: 'South Eastern CoalField Limited (E&T Department), Bilaspur',
     period: 'May\'25 - June\'25 Onsite',
     description: 'Gained hands-on experience in computer network architecture, server infrastructure, and SCADA systems for real-time monitoring and control of mining equipment. Applied advanced technologies including CAD, GIS, Remote Sensing, and ERP systems. Collaborated with engineering teams, troubleshot network issues, and learned cybersecurity protocols.',
     technologies: ['Computer Network Architecture', 'Server Infrastructure Management', 'SCADA Systems', 'CAD Software', 'GIS', 'Remote Sensing', 'ERP Systems', 'Data Visualization Tools', 'System Logs', 'Version Control Systems', 'API Integration', 'Web Services', 'Distributed Systems']
